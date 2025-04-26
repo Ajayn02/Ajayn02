@@ -1,7 +1,8 @@
 👋 Hi, I'm Ajay – a full-stack developer passionate about building clean, scalable web applications.<br>
 💻 I work primarily with JavaScript, TypeScript, Node.js, React, Angular, and MongoDB/PostgreSQL.<br>
 🚀 Currently learning DevOps and exploring backend architecture patterns.<br>
-📬 Let's connect: <a href="https://www.linkedin.com/in/ajay-n02/">LinkedIn</a>
+📬 Let's connect: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajayaj2002nov@email.com" target="_blank">Email Me</a>
+
 
 <!--
 **Ajayn02/Ajayn02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
