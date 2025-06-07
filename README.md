@@ -1,6 +1,6 @@
 👋 Hi, I'm Ajay – a full-stack developer passionate about building clean, scalable web applications.<br>
 💻 I work primarily with JavaScript, TypeScript, Node.js, React, Angular, and MongoDB/PostgreSQL.<br>
-🚀 Currently learning DevOps and exploring backend architecture patterns.<br>
+🚀  I'm currently diving into DevOps and exploring advanced backend and frontend architecture patterns to enhance scalability and performance.<br>
 📬 Reach Out <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajayaj2002nov@email.com" target="_blank">me</a>
 
 
